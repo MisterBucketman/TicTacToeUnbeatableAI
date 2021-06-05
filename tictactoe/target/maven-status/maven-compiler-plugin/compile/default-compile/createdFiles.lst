@@ -1,0 +1,10 @@
+tictactoe\GameState.class
+tictactoe\Fight.class
+tictactoe\MediumAI.class
+tictactoe\HardAI.class
+tictactoe\MoveController.class
+tictactoe\MoveStrategy.class
+tictactoe\HumanPlayer.class
+tictactoe\Grid.class
+tictactoe\Main.class
+tictactoe\EasyAI.class
